@@ -3,8 +3,8 @@ from urllib.request import urlretrieve
 import os, time, sys
 
 # flickr api
-key = "de37a25e9c88f1f6c2bbd1475f64c455"
-secret = "2cbb4f2e3e384e05"
+key = ""
+secret = ""
 wait_time = 1
 
 # 保存先の指定
